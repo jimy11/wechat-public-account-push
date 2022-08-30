@@ -19,9 +19,9 @@ export const config = {
     /** 天气相关 */
 
     // 所在省份
-    PROVINCE: "广东",
+    PROVINCE: "浙江",
     // 所在城市
-    CITY: "惠州",
+    CITY: "杭州",
 
     /** 重要节日相关 */
 
