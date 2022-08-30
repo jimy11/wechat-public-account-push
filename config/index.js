@@ -4,13 +4,13 @@ export const config = {
      */
 
     // 公众号APP_ID
-    APP_ID: "",
+    APP_ID: "wxc174f820fbd4adf5",
     // 公众号APP_SECRET
-    APP_SECRET: "",
+    APP_SECRET: "9d06ba0fdba3af2b7d17a5c527877a68",
     // 模板消息id
-    TEMPLATE_ID: "",
+    TEMPLATE_ID: "uJivp3j2rr0ihe7W8rbfU-ASskX-DNtFYxhC2OhIJcs",
     // 接收公众号消息的微信号，如果有多个，需要在[]里用英文逗号间隔，例如["wx1", "wx2"]
-    USERS: [""],
+    USERS: ["wji1993"],
      
     /**
      * 信息配置
@@ -30,10 +30,8 @@ export const config = {
     // 生日时，name填写想要展示的名字，你可以填“美丽可爱亲亲老婆”
     // 节日时，name填写相应展示的节日，你可以填“被搭讪纪念日”
     FESTIVALS: [
-      {"type": "生日", "name": "老婆", "year": "1996", "date": "01-01"},
-      {"type": "节日", "name": "结婚纪念日", "year": "2020", "date": "01-04"},
-      {"type": "生日", "name": "李四", "year": "1996", "date": "08-29"},
-      {"type": "节日", "name": "被搭讪纪念日", "year": "2021", "date": "08-29"},
+      {"type": "生日", "name": "老婆", "year": "1995", "date": "07-30"},
+      {"type": "节日", "name": "结婚纪念日", "year": "2022", "date": "08-28"}
     ],
     // 限制重要节日的展示条目, 需要填写数字; 
     // 如果为3, 则仅展示“将要到达” 的3个重要节日提醒，剩下的将被忽略
@@ -43,9 +41,9 @@ export const config = {
     /** 日期相关 */
 
     // 在一起的日子，格式同上
-    LOVE_DATE: "2015-05-01",
+    LOVE_DATE: "2022-02-02",
     // 结婚纪念日
-    MARRY_DATE: "2020-01-04",
+    MARRY_DATE: "2022-08-28",
 
 
     /** 每日一言 */
